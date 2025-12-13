@@ -14,6 +14,11 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ana-morandeira&layout=donut)](https://github.com/TU_USUARIO)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ana-morandeira&show_icons=true&theme=dark)
+
+
+
 
 **ana-morandeira/ana-morandeira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
