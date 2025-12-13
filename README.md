@@ -1,5 +1,36 @@
 <image src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWJvNWo5aHpmc2xzMzk0cjFlNXJ0Ym9sNTh4NzVnN2N5bzhqMG54YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hs67xo8fGYfx5KlBgV/giphy.gif" width=150>
-  
+  # ¡Hola! Soy Ana 👋
+
+Soy desarrolladora web con interés en tecnologías como  
+HTML5, CSS3, JavaScript, JSON, Bootstrap y Tailwind CSS. Me entusiasma  
+crear interfaces limpias, accesibles y fáciles de usar.
+
+💡 Actualmente estoy aprendiendo y practicando nuevas **técnicas de diseño  
+responsivo** y **optimización de experiencia de usuario**, y comparto en  
+este perfil proyectos personales y ejemplos de código que reflejan mi  
+crecimiento como desarrolladora.
+
+📌 Aquí encontrarás:
+- Proyectos de práctica con HTML, CSS y JavaScript  
+- Ejemplos y demostraciones de diseño con Tailwind y Bootstrap  
+- Mis estadísticas de contribución y lenguajes más usados  
+- Enlaces a recursos útiles o herramientas que utilizo
+
+🎯 Siempre estoy abierta a **colaboraciones**, sugerencias o comentarios.  
+Si quieres conectar o proponer algo, ¡cuenta conmigo!
+
+---
+
+## 🚀 Conecta conmigo
+
+Puedes encontrarme también en:
+- **GitHub:** https://github.com/ana-morandeira   
+- **LinkedIn:** *(https://www.linkedin.com/in/ana-morandeira-0250b0394/)*  
+- **Email:** *(ana.agrodorolo@gmail.com)*
+
+---
+
+
 ![Banner](Banner.png)
 
 ## 🛠️ Tecnologías y Herramientas
@@ -20,16 +51,4 @@
 
 
 
-**ana-morandeira/ana-morandeira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
