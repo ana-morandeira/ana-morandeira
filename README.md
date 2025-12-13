@@ -1,7 +1,7 @@
 ![Banner](banner.gif)
 
-<image src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWJvNWo5aHpmc2xzMzk0cjFlNXJ0Ym9sNTh4NzVnN2N5bzhqMG54YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hs67xo8fGYfx5KlBgV/giphy.gif" width=150>
-  # ¡Hola! Soy Ana 👋
+<image src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWJvNWo5aHpmc2xzMzk0cjFlNXJ0Ym9sNTh4NzVnN2N5bzhqMG54YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hs67xo8fGYfx5KlBgV/giphy.gif" width=150 <h3 align="center">Hola, soy Ana ☕</h3>
+
 
 Soy desarrolladora web con interés en tecnologías como  
 HTML5, CSS3, JavaScript, JSON, Bootstrap y Tailwind CSS. Me entusiasma  
