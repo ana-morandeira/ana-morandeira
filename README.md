@@ -21,12 +21,10 @@ Si quieres conectar o proponer algo, ¡cuenta conmigo!
 
 ---
 
-## 🚀 Conecta conmigo
+## Conecta conmigo
 
-Puedes encontrarme también en:
-- **GitHub:** https://github.com/ana-morandeira   
-- **LinkedIn:** *(https://www.linkedin.com/in/ana-morandeira-0250b0394/)*  
-- **Email:** *(ana.agrodorolo@gmail.com)*
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ana-morandeira-0250b0394/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ana.agrodorole@gmail.com)
 
 ---
 
