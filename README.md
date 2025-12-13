@@ -31,7 +31,7 @@ Puedes encontrarme también en:
 ---
 
 
-![Banner](Banner.png)
+![Banner](banner.gif)
 
 ## 🛠️ Tecnologías y Herramientas
 
