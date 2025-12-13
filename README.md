@@ -1,3 +1,5 @@
+![Banner](banner.gif)
+
 <image src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWJvNWo5aHpmc2xzMzk0cjFlNXJ0Ym9sNTh4NzVnN2N5bzhqMG54YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hs67xo8fGYfx5KlBgV/giphy.gif" width=150>
   # ¡Hola! Soy Ana 👋
 
@@ -27,9 +29,6 @@ Si quieres conectar o proponer algo, ¡cuenta conmigo!
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ana.agrodorole@gmail.com)
 
 ---
-
-
-![Banner](banner.gif)
 
 ## 🛠️ Tecnologías y Herramientas
 
