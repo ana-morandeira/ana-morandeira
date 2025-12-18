@@ -45,7 +45,10 @@ Si quieres conectar o proponer algo, ¡cuenta conmigo!
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ana-morandeira&layout=donut)](https://github.com/ana-morandeira)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ana-morandeira&show_icons=true&theme=dark)
-![GitHub Streak](https://streak-stats.demolab.com?user=ana-morandeira&theme=dark)
+
+
+
+
 
 
 
