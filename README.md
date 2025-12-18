@@ -2,7 +2,7 @@
  <h3>Hola, soy Ana ☕</h3>
 
 
-Soy desarrolladora web con interés en tecnologías como  
+Desarrolladora web con interés en tecnologías como  
 HTML5, CSS3, JavaScript, JSON, Bootstrap y Tailwind CSS. Me entusiasma  
 crear interfaces limpias, accesibles y fáciles de usar.
 
@@ -45,7 +45,10 @@ Si quieres conectar o proponer algo, ¡cuenta conmigo!
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ana-morandeira&layout=donut)](https://github.com/ana-morandeira)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ana-morandeira&show_icons=true&theme=dark)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ana-morandeira&theme=dark)
+![GitHub Streak](https://streak-stats.demolab.com?user=ana-morandeira&theme=dark)
+
+
+
 
 
 
