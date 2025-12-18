@@ -39,10 +39,14 @@ Si quieres conectar o proponer algo, ¡cuenta conmigo!
 ![Tailwind_CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![VS_Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Responsive Design](https://img.shields.io/badge/Responsive_Design-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ana-morandeira&layout=donut)](https://github.com/TU_USUARIO)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ana-morandeira&layout=donut)](https://github.com/ana-morandeira)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ana-morandeira&show_icons=true&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ana-morandeira&theme=dark)
+
 
 
 
