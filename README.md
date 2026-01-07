@@ -46,9 +46,9 @@ Si quieres conectar o proponer algo, ¡cuenta conmigo!
 ### 📊 Mi Actividad en GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ana-morandeira&layout=compact&theme=tokyonight" height="180px" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ana-morandeira&layout=compact&theme=tokyonight&hide_border=true" height="180px" />
   
-  <img src="https://github-readme-stats-re-alpha.vercel.app/api?username=ana-morandeira&show_icons=true&theme=tokyonight" height="180px" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ana-morandeira&show_icons=true&theme=tokyonight&hide_border=true" height="180px" />
 </p>
 
 <p align="center">
