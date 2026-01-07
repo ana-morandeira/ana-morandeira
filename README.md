@@ -46,16 +46,14 @@ Si quieres conectar o proponer algo, ¡cuenta conmigo!
 ### 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ana-morandeira&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" height="170px" />
+  <img src="https://github-readme-stats-one-eight.vercel.app/api?username=ana-morandeira&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" height="175px" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ana-morandeira&layout=compact&theme=tokyonight" alt="Top Langs" height="170px" />
+  <img src="https://github-readme-stats-one-eight.vercel.app/api/top-langs/?username=ana-morandeira&layout=compact&theme=tokyonight" alt="Top Langs" height="175px" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ana-morandeira&theme=tokyonight" alt="GitHub Streak" />
 </p>
-
-
 
 
 
