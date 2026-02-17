@@ -25,7 +25,7 @@ Si quieres conectar o proponer algo, ¡cuenta conmigo!
 ## Conecta conmigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ana-morandeira-0250b0394/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ana.agrodorole@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amorandeira.dev@gmail.com)
 
 ---
 
@@ -41,6 +41,8 @@ Si quieres conectar o proponer algo, ¡cuenta conmigo!
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Responsive Design](https://img.shields.io/badge/Responsive_Design-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 
 
 ### 📊 Mi Actividad en GitHub
